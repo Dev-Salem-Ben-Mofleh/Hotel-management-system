@@ -1,0 +1,17 @@
+F:\Hotel_Managment_System\HotelBussinse\bin\Debug\net8.0\HotelBussinse.deps.json
+F:\Hotel_Managment_System\HotelBussinse\bin\Debug\net8.0\HotelBussinse.runtimeconfig.json
+F:\Hotel_Managment_System\HotelBussinse\bin\Debug\net8.0\HotelBussinse.dll
+F:\Hotel_Managment_System\HotelBussinse\bin\Debug\net8.0\HotelBussinse.pdb
+F:\Hotel_Managment_System\HotelBussinse\bin\Debug\net8.0\HotelDataAceess.dll
+F:\Hotel_Managment_System\HotelBussinse\bin\Debug\net8.0\HotelDataAceess.pdb
+F:\Hotel_Managment_System\HotelBussinse\obj\Debug\net8.0\HotelBussinse.csproj.AssemblyReference.cache
+F:\Hotel_Managment_System\HotelBussinse\obj\Debug\net8.0\HotelBussinse.GeneratedMSBuildEditorConfig.editorconfig
+F:\Hotel_Managment_System\HotelBussinse\obj\Debug\net8.0\HotelBussinse.AssemblyInfoInputs.cache
+F:\Hotel_Managment_System\HotelBussinse\obj\Debug\net8.0\HotelBussinse.AssemblyInfo.cs
+F:\Hotel_Managment_System\HotelBussinse\obj\Debug\net8.0\HotelBussinse.csproj.CoreCompileInputs.cache
+F:\Hotel_Managment_System\HotelBussinse\obj\Debug\net8.0\HotelBus.894DB7E4.Up2Date
+F:\Hotel_Managment_System\HotelBussinse\obj\Debug\net8.0\HotelBussinse.dll
+F:\Hotel_Managment_System\HotelBussinse\obj\Debug\net8.0\refint\HotelBussinse.dll
+F:\Hotel_Managment_System\HotelBussinse\obj\Debug\net8.0\HotelBussinse.pdb
+F:\Hotel_Managment_System\HotelBussinse\obj\Debug\net8.0\HotelBussinse.genruntimeconfig.cache
+F:\Hotel_Managment_System\HotelBussinse\obj\Debug\net8.0\ref\HotelBussinse.dll

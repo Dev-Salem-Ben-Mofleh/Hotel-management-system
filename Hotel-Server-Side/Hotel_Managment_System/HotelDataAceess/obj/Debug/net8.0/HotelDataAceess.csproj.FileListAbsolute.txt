@@ -1,0 +1,14 @@
+F:\Hotel_Managment_System\HotelDataAceess\bin\Debug\net8.0\HotelDataAceess.deps.json
+F:\Hotel_Managment_System\HotelDataAceess\bin\Debug\net8.0\HotelDataAceess.runtimeconfig.json
+F:\Hotel_Managment_System\HotelDataAceess\bin\Debug\net8.0\HotelDataAceess.dll
+F:\Hotel_Managment_System\HotelDataAceess\bin\Debug\net8.0\HotelDataAceess.pdb
+F:\Hotel_Managment_System\HotelDataAceess\obj\Debug\net8.0\HotelDataAceess.csproj.AssemblyReference.cache
+F:\Hotel_Managment_System\HotelDataAceess\obj\Debug\net8.0\HotelDataAceess.GeneratedMSBuildEditorConfig.editorconfig
+F:\Hotel_Managment_System\HotelDataAceess\obj\Debug\net8.0\HotelDataAceess.AssemblyInfoInputs.cache
+F:\Hotel_Managment_System\HotelDataAceess\obj\Debug\net8.0\HotelDataAceess.AssemblyInfo.cs
+F:\Hotel_Managment_System\HotelDataAceess\obj\Debug\net8.0\HotelDataAceess.csproj.CoreCompileInputs.cache
+F:\Hotel_Managment_System\HotelDataAceess\obj\Debug\net8.0\HotelDataAceess.dll
+F:\Hotel_Managment_System\HotelDataAceess\obj\Debug\net8.0\refint\HotelDataAceess.dll
+F:\Hotel_Managment_System\HotelDataAceess\obj\Debug\net8.0\HotelDataAceess.pdb
+F:\Hotel_Managment_System\HotelDataAceess\obj\Debug\net8.0\HotelDataAceess.genruntimeconfig.cache
+F:\Hotel_Managment_System\HotelDataAceess\obj\Debug\net8.0\ref\HotelDataAceess.dll
