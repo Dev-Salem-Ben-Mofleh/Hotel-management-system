@@ -1,152 +1,188 @@
-# Hotel-management-system
+# 🏨 Hotel Management System
 
-# 📌 Project Name
+A complete full-stack Hotel Management System designed to streamline hotel operations and provide a seamless booking experience for guests.
 
-A full-stack hotel management system with a customer-facing website and a RESTful backend API.
+The project consists of:
 
----
-
-## 📖 Description
-
-This project is a hotel booking system consisting of:
-
-- ✅ **Backend** built with **ASP.NET 8** using modern design patterns and best practices.
-- ✅ **Frontend** built with **React** and **TypeScript**, providing an elegant interface for hotel guests to search and book available rooms.
-
-Currently, the guest-facing site allows:
-
-- 🔍 Searching for available rooms.
-- 🏨 Viewing room details.
-- 📅 Making reservations.
-- 🧾 Managing user accounts (register & login).
-
-Planned future improvements include building an **Admin & Employee Portal** for hotel staff to manage all hotel operations efficiently.
+* 🌐 Customer Website for hotel guests.
+* 🖥️ Hotel Management Dashboard for administrators and employees.
+* 🔗 RESTful Backend API powering both applications.
 
 ---
 
-## 🏗️ Backend
+# 📖 Overview
 
-### 🔧 **Tech Stack & Patterns**
+This system was built to cover both customer and hotel management needs.
 
-- **ASP.NET 8**
-- **Entity Framework Core**
-- **LINQ**
-- **RESTful API**
-- **3-Tier Architecture**
-- **Repository Pattern**
-- **Unit of Work Pattern**
-- **Serilog** (Logging)
-- **AutoMapper** (Object Mapping)
-- **JWT Token** (Authentication & Authorization)
+### Guest Website Features
 
-### 📂 **Features**
+* Search available rooms
+* View room details
+* User registration & login
+* Make reservations
+* Manage personal bookings
 
-- User & Role Management: (`Admin`, `Guest`, `Employee`)
-- Reservation Management
-- Room Management
-- Payment Management
+### Hotel Management System Features
 
-### 🚀 **Hosting**
-
-- Hosted for free on **Monster ASP.NET Hosting**
+* Dashboard overview
+* Visitor Management
+* Room Management
+* Room Type Management
+* Reservation Management
+* User Management
+* Role & Permission Management
+* Employee Operations
+* Secure Authentication & Authorization
 
 ---
 
-## 💻 Frontend
+# 🏗️ System Architecture
 
-### 🚀 **Tech Stack**
-
-- **React**
-- **TypeScript**
-- **Tailwind CSS**
-- **ESLint**
-- **React Router DOM**
-- **@tanstack/react-query** & **react-query-devtools**
-- **Redux Toolkit**
-- **react-hot-toast**
-- **react-hook-form**
-- **date-fns**
-
-### 🎯 **Features**
-
-- Guest-only user interface
-- Hotel information & introduction
-- Search and filter available rooms
-- Room booking workflow
-- User registration and authentication
-
-### 🚀 **Hosting**
-
-- Deployed on **Netlify**
+```text
+Hotel-Management-System
+│
+├── Backend
+├── Client_Website
+└── Hotel_System
+```
 
 ---
 
-## 🗂️ **Future Plans**
+# 🔧 Backend
 
-- Develop a secure and user-friendly **Admin & Employee Dashboard** to:
-  - Manage reservations
-  - Manage rooms
-  - Handle payments
-  - Manage users and permissions
-  - Generate reports
+### Technologies
 
----
+* ASP.NET 8
+* Entity Framework Core
+* LINQ
+* RESTful API
+* Repository Pattern
+* Unit of Work Pattern
+* 3-Tier Architecture
+* AutoMapper
+* Serilog
+* JWT Authentication & Authorization
 
-## ✅ **How to Run Locally**
+### Backend Features
 
-### 📌 **Backend**
-
-1. Clone the repository.
-2. Configure your database connection in `appsettings.json`.
-3. Run the migrations:
-   ```bash
-   dotnet ef database update
-   ```
-4. Run the API:
-   ```bash
-   dotnet run
-   ```
-
-### 📌 **Frontend**
-
-1. Clone the frontend repository.
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-3. Start the development server:
-   ```bash
-   npm run dev
-   ```
+* Authentication & Authorization
+* User Management
+* Role Management
+* Visitor Management
+* Room Management
+* Room Type Management
+* Reservation Management
+* Payment Management
 
 ---
 
-## ⚙️ **Deployment**
+# 💻 Client Website
 
-- **Backend**: Hosted on **Monster ASP.NET Free**
-- **Frontend**: Hosted on **Netlify**
+### Technologies
+
+* React
+* TypeScript
+* Tailwind CSS
+* React Router DOM
+* Redux Toolkit
+* TanStack Query
+* React Hook Form
+* React Hot Toast
+* Date-fns
+
+### Features
+
+* Hotel introduction
+* Room browsing
+* Room availability search
+* Online reservations
+* User authentication
+* Booking management
 
 ---
 
-## Project URL
+# 🖥️ Hotel Management Dashboard
 
-[Live Demo](#) _(https://hotel-heritage-booking.netlify.app/)_
+### Technologies
 
-- **Email**: salembenmofleh@gmail.com
-- **Password**: 123wW123#
+* React
+* TypeScript
+* Tailwind CSS
+* React Router DOM
+* TanStack Query
+* React Hook Form
+* React Hot Toast
+
+### Features
+
+* Dashboard Statistics
+* Visitor Management
+* Room Management
+* Room Type Management
+* Reservation Management
+* User Management
+* Employee Management
+* Secure Role-Based Access Control (RBAC)
 
 ---
 
-## 👤 **Author**
+# 🚀 Deployment
+
+### Backend
+
+Hosted on Monster ASP.NET Hosting
+
+### Frontend Applications
+
+Hosted on Netlify
+
+---
+
+# 🔑 Demo Credentials
+
+### Hotel Management Dashboard
+
+Email:
+
+```text
+qqq123@gmail.com
+```
+
+Password:
+
+```text
+123wW123#
+```
+
+---
+
+# ⚙️ Running Locally
+
+## Backend
+
+```bash
+dotnet ef database update
+dotnet run
+```
+
+## Frontend
+
+```bash
+npm install
+npm run dev
+```
+
+---
+
+# 👨‍💻 Author
 
 Salem Ben Mofleh
 
-## 📧 **Email:**
+Junior Full Stack Developer
+
+Email:
+[salembenmofleh@gmail.com](mailto:salembenmofleh@gmail.com)
 
 ---
 
-[salem@gmail.com](salembenmofleh@gmail.com)
-
----
-
-📢 **Feel free to contribute, fork, and adapt!**
+⭐ Feel free to fork, explore, and contribute to the project.
