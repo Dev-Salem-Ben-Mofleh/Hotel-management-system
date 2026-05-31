@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\Hotel_Server_Side.props" />
-</Project>
